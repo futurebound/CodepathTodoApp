@@ -4,7 +4,7 @@
 
 Submitted by: **Mitchell Massie**
 
-Time spent: **12** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
